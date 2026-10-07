@@ -1,0 +1,19 @@
+# Build outputs
+build/
+*.sfc
+*.smc
+*.o
+*.map
+*.lst
+*.sym
+
+# macOS
+.DS_Store
+
+# VSCode local
+.vscode/settings.json
+
+# PVSnesLib generated
+*.pic
+*.pal
+*.chr
